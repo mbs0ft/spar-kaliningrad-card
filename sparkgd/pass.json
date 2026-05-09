@@ -3,47 +3,17 @@
   "passTypeIdentifier": "pass.mk.local",
   "teamIdentifier": "9733K94JUG",
   "serialNumber": "F47A67649ACE67C7",
-  "organizationName": "SPAR - Клуб Друзей",
+  "organizationName": "Клуб Друзей",
   "description": "Клуб Друзей (SPAR Калининград)",
   "foregroundColor": "rgb(255, 255, 255)",
-  "backgroundColor": "rgb(239, 68, 68)",
+  "backgroundColor": "rgb(232, 32, 49)",
   "labelColor": "rgb(254, 226, 226)",
   "storeCard": {
-    "headerFields": [
-      {
-        "key": "h1",
-        "label": "STARS",
-        "value": "★ 8/10"
-      }
-    ],
-    "primaryFields": [
-      {
-        "key": "p1",
-        "label": "BALANCE",
-        "value": 24.5,
-        "attributedValue": "<a href=\"https://example.com\">24.50</a>",
-        "currencyCode": "USD"
-      }
-    ],
-    "secondaryFields": [
-      {
-        "key": "s1",
-        "label": "Last visit",
-        "value": "Yesterday"
-      }
-    ],
-    "auxiliaryFields": [
-      {
-        "key": "a1",
-        "label": "REWARD",
-        "value": "Free drink at 10"
-      }
-    ],
     "backFields": [
       {
         "key": "b1",
-        "label": "How it works",
-        "value": "Earn one star per drink. After 10 stars, get a free drink of any size.",
+        "label": "Как это работает",
+        "value": "Для начисления или списания бонусов предъяви штрихкод на кассе.",
         "dataDetectorTypes": []
       }
     ]

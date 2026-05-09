@@ -1,12 +1,12 @@
 {
-  "pass.json": "31a4534dfa7d7ea10d8a2a401b74fa431d434d94",
-  "icon.png": "cfbbf9408f04b9b761db14c2b7e08ddb13c2f1d6",
-  "icon@2x.png": "45611ff1e436f816b966069cddc144c80f16c5a3",
-  "icon@3x.png": "7f6382459e805cb7ac6815cd30fb8ef5f49e0092",
-  "logo.png": "acb920d40cf4cd4ca9e4ee1c2db8293ece825a2b",
-  "logo@2x.png": "9c6a864b29e87814c5a054f04cb5f034ddb891f1",
-  "logo@3x.png": "d0649621678c657cc78e1a807fe9c6cfb3bad938",
-  "strip.png": "c78d993db22cffd1abc1b87c1a2c8ecc68181b1f",
-  "strip@2x.png": "9c2e29022ed35d6f4b149ab4201719faabdf1dd9",
-  "strip@3x.png": "95fe3e4ebde576bc290b85331449d05ac67cd70b"
+  "pass.json": "c1726fae50b481d7bd4f32a4c9c22f75dfe84d23",
+  "icon.png": "0e062886c2e383da52417369bbdf38d9f17a0074",
+  "icon@2x.png": "a0b9a1ebcf3a1c11dc06d5e5d8152969581bec3d",
+  "icon@3x.png": "18c4bfbaa4558bd62bdf7feed805bec6c6e24491",
+  "logo.png": "8f5f9f8227e503d8a6df3f1e68760d52bd0659a1",
+  "logo@2x.png": "9f105ee572505588e25ff4b8c06e8d2859774bf2",
+  "logo@3x.png": "8283978c905c1a5f7c04180b7863eae7effde8e9",
+  "strip.png": "baca85a36a56bb7313d87680113cd4575d95cda9",
+  "strip@2x.png": "8be4c9cecc9e180a8ae4c710c2148b039512bf4d",
+  "strip@3x.png": "37db519c9c2e3f3f2d7a389e857d52317ff1f88e"
 }
