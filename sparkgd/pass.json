@@ -22,11 +22,22 @@
   "barcodes": [
     {
       "format": "PKBarcodeFormatCode128",
-      "message": "BREW-USR-1428",
+      "message": "123123123123",
       "messageEncoding": "iso-8859-1",
-      "altText": "1428546"
+      "altText": "123123123"
     }
   ],
   "webServiceURL": "https://example.invalid/passkit",
-  "authenticationToken": "0000000000000000"
+  "authenticationToken": "0000000000000000",
+  "associatedStoreIdentifiers": [
+    1443898962
+  ],
+  "maxDistance": 10,
+  "locations": [
+    {
+      "longitude": 20.49244,
+      "latitude": 54.67936,
+      "relevantText": "Карта друга"
+    }
+  ]
 }
