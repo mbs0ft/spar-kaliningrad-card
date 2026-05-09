@@ -4,10 +4,10 @@
   "teamIdentifier": "9733K94JUG",
   "serialNumber": "F47A67649ACE67C7",
   "organizationName": "SPAR - Клуб Друзей",
-  "description": "Карта Клуба Друзей (SPAR Калининград)",
-  "foregroundColor": "rgb(255, 251, 235)",
-  "backgroundColor": "rgb(120, 53, 15)",
-  "labelColor": "rgb(252, 211, 77)",
+  "description": "Клуб Друзей (SPAR Калининград)",
+  "foregroundColor": "rgb(255, 255, 255)",
+  "backgroundColor": "rgb(239, 68, 68)",
+  "labelColor": "rgb(254, 226, 226)",
   "storeCard": {
     "headerFields": [
       {
@@ -19,8 +19,9 @@
     "primaryFields": [
       {
         "key": "p1",
-        "label": "Balance",
+        "label": "BALANCE",
         "value": 24.5,
+        "attributedValue": "<a href=\"https://example.com\">24.50</a>",
         "currencyCode": "USD"
       }
     ],
@@ -34,7 +35,7 @@
     "auxiliaryFields": [
       {
         "key": "a1",
-        "label": "Reward",
+        "label": "REWARD",
         "value": "Free drink at 10"
       }
     ],
@@ -47,13 +48,13 @@
       }
     ]
   },
-  "logoText": "SPAR - Клуб Друзей",
+  "logoText": "Клуб Друзей",
   "barcodes": [
     {
-      "format": "PKBarcodeFormatQR",
+      "format": "PKBarcodeFormatCode128",
       "message": "BREW-USR-1428",
       "messageEncoding": "iso-8859-1",
-      "altText": "1428"
+      "altText": "1428546"
     }
   ],
   "webServiceURL": "https://example.invalid/passkit",
