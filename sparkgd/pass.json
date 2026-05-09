@@ -1,0 +1,61 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.mk.local",
+  "teamIdentifier": "9733K94JUG",
+  "serialNumber": "F47A67649ACE67C7",
+  "organizationName": "SPAR - Клуб Друзей",
+  "description": "Карта Клуба Друзей (SPAR Калининград)",
+  "foregroundColor": "rgb(255, 251, 235)",
+  "backgroundColor": "rgb(120, 53, 15)",
+  "labelColor": "rgb(252, 211, 77)",
+  "storeCard": {
+    "headerFields": [
+      {
+        "key": "h1",
+        "label": "STARS",
+        "value": "★ 8/10"
+      }
+    ],
+    "primaryFields": [
+      {
+        "key": "p1",
+        "label": "Balance",
+        "value": 24.5,
+        "currencyCode": "USD"
+      }
+    ],
+    "secondaryFields": [
+      {
+        "key": "s1",
+        "label": "Last visit",
+        "value": "Yesterday"
+      }
+    ],
+    "auxiliaryFields": [
+      {
+        "key": "a1",
+        "label": "Reward",
+        "value": "Free drink at 10"
+      }
+    ],
+    "backFields": [
+      {
+        "key": "b1",
+        "label": "How it works",
+        "value": "Earn one star per drink. After 10 stars, get a free drink of any size.",
+        "dataDetectorTypes": []
+      }
+    ]
+  },
+  "logoText": "SPAR - Клуб Друзей",
+  "barcodes": [
+    {
+      "format": "PKBarcodeFormatQR",
+      "message": "BREW-USR-1428",
+      "messageEncoding": "iso-8859-1",
+      "altText": "1428"
+    }
+  ],
+  "webServiceURL": "https://example.invalid/passkit",
+  "authenticationToken": "0000000000000000"
+}
