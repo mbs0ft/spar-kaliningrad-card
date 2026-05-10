@@ -18,7 +18,6 @@
       }
     ]
   },
-  "logoText": "Клуб Друзей",
   "barcodes": [
     {
       "format": "PKBarcodeFormatCode128",
@@ -38,6 +37,18 @@
       "longitude": 20.49244,
       "latitude": 54.67936,
       "relevantText": "Карта друга"
+    },
+    {
+      "longitude": 20.490176,
+      "latitude": 54.674434
+    },
+    {
+      "longitude": 20.512916,
+      "latitude": 54.668885
+    },
+    {
+      "longitude": 20.510236,
+      "latitude": 54.668873
     }
   ]
 }
