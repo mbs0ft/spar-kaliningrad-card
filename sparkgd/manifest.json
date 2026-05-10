@@ -1,12 +1,12 @@
 {
-  "pass.json": "6cf03d312f1791353695c72b3fdb91a29efb3d8e",
+  "pass.json": "6083c3634bcd34702414044b5f691c67ca85ec7d",
   "icon.png": "2c8078aac1c764e76ee7f110ff28881a0cf6b937",
   "icon@2x.png": "acaad018e80a9ad3f1b2101716317bd01107c703",
   "icon@3x.png": "8e5abedf76275c20098ddc5db45b83840ef69748",
   "logo.png": "810d30196ff04ce6af07af9a2cd0775841c584d8",
   "logo@2x.png": "f7cf0e019429df56e7800a7176f01e5a47cc53bc",
   "logo@3x.png": "5adec0f54a723ecc6034c2d03e775fc74577c496",
-  "strip.png": "baca85a36a56bb7313d87680113cd4575d95cda9",
-  "strip@2x.png": "8be4c9cecc9e180a8ae4c710c2148b039512bf4d",
-  "strip@3x.png": "37db519c9c2e3f3f2d7a389e857d52317ff1f88e"
+  "strip.png": "ce9a20ca180feadf422449a51a6b049655f0f0d5",
+  "strip@2x.png": "1bbad9444bf1ef4d290c7fdc5b16c3077fe23fdb",
+  "strip@3x.png": "6a218c303c93920505165cdab22c8573a83e1a63"
 }

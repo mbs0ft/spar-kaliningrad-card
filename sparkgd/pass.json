@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "passTypeIdentifier": "pass.mk.local",
+  "passTypeIdentifier": "pass.mk.common",
   "teamIdentifier": "9733K94JUG",
   "serialNumber": "F47A67649ACE67C7",
   "organizationName": "Клуб Друзей",
@@ -21,7 +21,7 @@
   "barcodes": [
     {
       "format": "PKBarcodeFormatCode128",
-      "message": "123123123123",
+      "message": "123123123",
       "messageEncoding": "iso-8859-1",
       "altText": "123123123"
     }
